@@ -55,7 +55,3 @@ Nesta etapa, você deve reproduzir e executar os códigos de diferentes algoritm
 
 5. **Compartilhe o código:**
    - Após garantir que o código está funcionando, compartilhe o link de acesso ao seu Google Colab na tarefa correspondente.
-
-
-plt.legend()
-plt.show()
